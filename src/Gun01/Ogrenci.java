@@ -9,5 +9,6 @@ public class Ogrenci {
 
         System.out.println("Hello");
         System.out.println("Nasılsın");
+        System.out.println("ne var ne yok");
     }
 }
